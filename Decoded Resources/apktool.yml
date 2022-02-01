@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: IiyAqfDAWJRNBjMhTuCQTQeyMrjfKJVG.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '9'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0-c83c73-SNAPSHOT
+versionInfo:
+  versionCode: '2'
+  versionName: '0.1'

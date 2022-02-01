@@ -1,0 +1,85 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: phs4RNpqGPKxr2vcb9V87+9OA/I=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: 4O6rKFqaPf0qvNAEZTdyUsGeFPg=
+
+Name: assets/terrain.png
+SHA1-Digest: WWuSN0zv+BM/4awNhuZ+bbKfhhg=
+
+Name: res/layout/create_world_screen.xml
+SHA1-Digest: gYjfuNW2hw/Z1a7VUfT0pD/v7to=
+
+Name: assets/gui/gui_blocks.png
+SHA1-Digest: aAwx4JZSWfIq1d/ouh2WoND5MP4=
+
+Name: res/layout/mainmenu_options.xml
+SHA1-Digest: eyisj3Kh12q9WTFaMu6e7jdZXls=
+
+Name: resources.arsc
+SHA1-Digest: dN6AQeO+114VPU1UiGQwN8Y8u8k=
+
+Name: assets/mob/char.png
+SHA1-Digest: i1FM8xqLyj8m7eTwIXQ8aBlIffg=
+
+Name: assets/gui/title.png
+SHA1-Digest: BSLtN1pXH+u9drO1pJxDvjhRcwE=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: FYOKhrrXKZZFgVUXQq3ayNQD4sA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XGXP8NOCAuk90ObMJHYSTK0Jv3M=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: J5IqwB2TkH+RPovzJT4bBsgDgWY=
+
+Name: assets/gui/items.png
+SHA1-Digest: accxiucgaDFQJPXe19jKr7Dq1EM=
+
+Name: assets/gui/background.png
+SHA1-Digest: vXHrwhUgQWd0sMOgiUDwwF2KS2c=
+
+Name: assets/item/camera.png
+SHA1-Digest: knTc2EDeb1qj9HxgmvstCQlruh0=
+
+Name: res/layout/rename_mp_world.xml
+SHA1-Digest: 9jb+QL6WhDnPU0EFyMZzBus69XA=
+
+Name: classes.dex
+SHA1-Digest: N1kRp8fk3TXaW4BwxV83ILpBiw8=
+
+Name: assets/font/default.png
+SHA1-Digest: mc8gD6DBxm0XkFEe2iPYJz4DjC4=
+
+Name: res/drawable/bgtiled.xml
+SHA1-Digest: 4km/+t6apkjYmEBWN0LSoJkRvh8=
+
+Name: res/drawable/bg32.png
+SHA1-Digest: LKy6Ea8IlJmF6Qyc2XHfzyBIZos=
+
+Name: res/layout/main.xml
+SHA1-Digest: TEumZZycW2XwRxGIEPu1S4sCE3Q=
+
+Name: assets/gui/default_world.png
+SHA1-Digest: aNBU+F/EQxi7NC2OAsgoGCbaIsU=
+
+Name: assets/particles.png
+SHA1-Digest: LsmzVhudVjonQfwi5KlPJEQITD4=
+
+Name: lib/armeabi-v7a/libminecraftpe.so
+SHA1-Digest: 1/RjWHbhEcnRh8v0Prsz+IEnIsI=
+
+Name: assets/gui/gui.png
+SHA1-Digest: oR5HB7Uhok0ug+TLmzr+097qqIQ=
+
+Name: assets/gui/icons.png
+SHA1-Digest: f6R+Z7SoFGkg8pkdErq5CytofDg=
+
+Name: res/drawable/iconx.png
+SHA1-Digest: MxDfh/qKYG+CB4mu0DAxbyG+DfI=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: NxWwbCy8YaEyfigHoZLQo4rfpCc=
+

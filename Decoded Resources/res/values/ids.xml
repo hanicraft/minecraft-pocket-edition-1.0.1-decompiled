@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="editText_worldName" />
+    <item type="id" name="editText_worldSeed" />
+    <item type="id" name="editText1" />
+    <item type="id" name="linearLayout1" />
+    <item type="id" name="button2" />
+    <item type="id" name="button1" />
+    <item type="id" name="editText_options_mpusername" />
+    <item type="id" name="editText_worldNameRename" />
+</resources>

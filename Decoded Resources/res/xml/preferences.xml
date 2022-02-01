@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Multiplayer">
+        <EditTextPreference android:singleLine="true" android:title="@string/mmoptions_mp_username_title" android:key="mp_username" android:summary="" android:defaultValue="Steve" android:dialogTitle="@string/mmoptions_mp_username_dialog" />
+        <CheckBoxPreference android:title="@string/mmoptions_mp_server_visible_default_title" android:key="mp_server_visible_default" android:summary="" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Graphics">
+        <CheckBoxPreference android:title="@string/mmoptions_gfx_fancygraphics_title" android:key="gfx_fancygraphics" android:summary="" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Controls">
+        <CheckBoxPreference android:enabled="true" android:title="@string/mmoptions_ctrl_invertmouse_title" android:key="ctrl_invertmouse" android:summary="" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

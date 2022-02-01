@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="bg32" id="0x7f020000" />
+    <public type="drawable" name="bgtiled" id="0x7f020001" />
+    <public type="drawable" name="iconx" id="0x7f020003" />
+    <public type="drawable" name="icon" id="0x7f020002" />
+    <public type="layout" name="create_world_screen" id="0x7f030000" />
+    <public type="layout" name="main" id="0x7f030001" />
+    <public type="layout" name="mainmenu_options" id="0x7f030002" />
+    <public type="layout" name="rename_mp_world" id="0x7f030003" />
+    <public type="xml" name="preferences" id="0x7f040000" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="app_name_demo" id="0x7f050001" />
+    <public type="string" name="xperiaplayoptimized_content" id="0x7f050002" />
+    <public type="string" name="app_name_short" id="0x7f050003" />
+    <public type="string" name="app_name_short_demo" id="0x7f050004" />
+    <public type="string" name="createworld_name" id="0x7f050005" />
+    <public type="string" name="createworld_new_world" id="0x7f050006" />
+    <public type="string" name="createworld_seed" id="0x7f050007" />
+    <public type="string" name="createworld_seed_info" id="0x7f050008" />
+    <public type="string" name="renameworld_title" id="0x7f050009" />
+    <public type="string" name="renameworld_saved_world" id="0x7f05000a" />
+    <public type="string" name="mmoptions_mp_username_title" id="0x7f05000b" />
+    <public type="string" name="mmoptions_mp_username_dialog" id="0x7f05000c" />
+    <public type="string" name="mmoptions_mp_server_visible_default_title" id="0x7f05000d" />
+    <public type="string" name="mmoptions_ctrl_invertmouse_title" id="0x7f05000e" />
+    <public type="string" name="mmoptions_gfx_fancygraphics_title" id="0x7f05000f" />
+    <public type="id" name="editText_worldName" id="0x7f060000" />
+    <public type="id" name="editText_worldSeed" id="0x7f060001" />
+    <public type="id" name="editText1" id="0x7f060002" />
+    <public type="id" name="linearLayout1" id="0x7f060003" />
+    <public type="id" name="button2" id="0x7f060004" />
+    <public type="id" name="button1" id="0x7f060005" />
+    <public type="id" name="editText_options_mpusername" id="0x7f060006" />
+    <public type="id" name="editText_worldNameRename" id="0x7f060007" />
+</resources>

@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/xml/preferences.xml
+SHA1-Digest: 0Wx32E8Qi3GqKUbSSMhsHPpTu0c=
+
+Name: assets/terrain.png
+SHA1-Digest: lq1dsP2sHUc6vdvETELPqJVQ0p8=
+
+Name: assets/gui/gui_blocks.png
+SHA1-Digest: Gx8G5yyyTQnTnWFm3Hj8D7wvqtg=
+
+Name: res/layout/create_world_screen.xml
+SHA1-Digest: ccWGFrlodV7b/5FTajCUc2Bsn7s=
+
+Name: res/layout/mainmenu_options.xml
+SHA1-Digest: m/VLyR4lewAIA/uBPqkla317NEU=
+
+Name: assets/mob/char.png
+SHA1-Digest: 9fkV0U8Uc0ecQ5YqOnJUqbGgNGA=
+
+Name: resources.arsc
+SHA1-Digest: XkFoiTTOFfBoss8xliz9wkSkc5w=
+
+Name: assets/gui/title.png
+SHA1-Digest: bE9Mr+vIhDG2NVrDnzFoRvr20pk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: NKq8NVhi+f8sg71/jkNMs8Iht6E=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: X5JxnMbaTmGC31/UHuN1NAIjXhs=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: /G/lkUhYIICWZlCdLU8YSIqSSIY=
+
+Name: assets/gui/items.png
+SHA1-Digest: eDGvO//Nmiae2YgaAj1DJcDDV0w=
+
+Name: assets/gui/background.png
+SHA1-Digest: Tj5g6xm/Asnn8FmrzIyNN26+r8w=
+
+Name: assets/item/camera.png
+SHA1-Digest: sD9jKqRKiH9Hm+765ZyxiXLGAEM=
+
+Name: res/layout/rename_mp_world.xml
+SHA1-Digest: Si7lzF/iDsHrhhAescpoHgh7QkA=
+
+Name: classes.dex
+SHA1-Digest: fOd5IUwC2BLYxaDZluq6fZbw9+4=
+
+Name: assets/font/default.png
+SHA1-Digest: IZzGydw6r+76VmRFE5lMRiYG+ao=
+
+Name: res/drawable/bgtiled.xml
+SHA1-Digest: lZaYknGXLNwVhWvZXo8JRbUuPyM=
+
+Name: res/drawable/bg32.png
+SHA1-Digest: zDftF1LJfusFKNG0dGo83sI0ElU=
+
+Name: res/layout/main.xml
+SHA1-Digest: yksjb8IP7LPOaLxI0GZBoNkv3GM=
+
+Name: assets/gui/default_world.png
+SHA1-Digest: 1xJQhkv7u4a8Ll8U6Pa6CSg+NqA=
+
+Name: assets/particles.png
+SHA1-Digest: dLDW02YgMf6s968WPnMi9isFdeo=
+
+Name: lib/armeabi-v7a/libminecraftpe.so
+SHA1-Digest: 4Cc3hPPHWjmMewpQ8YrUQUuu3rg=
+
+Name: assets/gui/gui.png
+SHA1-Digest: gRdhQou4Hz7VsKfsMQAzIyCdFg0=
+
+Name: assets/gui/icons.png
+SHA1-Digest: 3d7hw+UskcGywysCm8Pe0kd9chg=
+
+Name: res/drawable/iconx.png
+SHA1-Digest: vojp7Dz9JnxwYwWhrVs1CZsKZ/s=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 4yf1NyNLOqp10BAVRtktJS8ak94=
+

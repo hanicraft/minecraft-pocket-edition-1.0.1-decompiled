@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minecraft - Pocket Edition</string>
+    <string name="app_name_demo">Minecraft - Pocket Edition Demo</string>
+    <string name="xperiaplayoptimized_content">true</string>
+    <string name="app_name_short">Minecraft PE</string>
+    <string name="app_name_short_demo">Minecraft PE Demo</string>
+    <string name="createworld_name">World name</string>
+    <string name="createworld_new_world">New World</string>
+    <string name="createworld_seed">Seed for the World Generator</string>
+    <string name="createworld_seed_info">Leave blank for a random seed</string>
+    <string name="renameworld_title">Save world as</string>
+    <string name="renameworld_saved_world">Saved World</string>
+    <string name="mmoptions_mp_username_title">Username</string>
+    <string name="mmoptions_mp_username_dialog">Enter your username</string>
+    <string name="mmoptions_mp_server_visible_default_title">Server visible by default</string>
+    <string name="mmoptions_ctrl_invertmouse_title">Invert mouse</string>
+    <string name="mmoptions_gfx_fancygraphics_title">Fancy graphics</string>
+</resources>
